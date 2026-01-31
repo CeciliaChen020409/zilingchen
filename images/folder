@@ -1,0 +1,5 @@
+dir.create("HW1/zilingchen/images", showWarnings = FALSE, recursive = TRUE)
+file.copy("nba_divisions_grid.png",
+          "HW1/zilingchen/images/nba_divisions_grid.png",
+          overwrite = TRUE)
+          
